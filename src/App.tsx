@@ -1,5 +1,7 @@
+import Navigation from 'src/routes' 
+
 const App = () => {
-  return <></>
+  return <Navigation />
 }
 
 export default App
